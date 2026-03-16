@@ -1,7 +1,9 @@
 # SAF Harmonization Meta-Analysis Framework v2.0
 
 **Author:** Joseph Amponsah, Iowa State University
+
 **Email:** joeampon@iastate.edu
+
 **Paper:** Methodology over technology: harmonizing techno-economic and life cycle assessment of sustainable aviation fuel-Biomass and Bioenergy (2026)
 
 ---
